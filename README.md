@@ -1,1 +1,1 @@
-<img src="https://github.com/elvislkn/img/blob/master/Street.jpg?raw=true">
+ ![alt text](https://raw.github.com/elvislkn/img/blob/master/Street.jpg?raw=true)
