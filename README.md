@@ -5,3 +5,7 @@
 <img src="https://github.com/elvislkn/img/blob/master/plaza-cajamarca.png?raw=true">
 <img src="https://github.com/elvislkn/img/blob/master/Plaza.jpg?raw=true">
 
+<img src="https://github.com/elvislkn/img/blob/master/sm1-min.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/sm2-min.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/sm3-min.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/sm4-min.jpg?raw=true">
