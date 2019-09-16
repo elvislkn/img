@@ -18,18 +18,11 @@
 
 
 
-<img src="https://github.com/elvislkn/img/blob/master/1.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/2.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/3.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/4.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/5.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/6.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/7.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/8.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/9.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/10.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/11.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/12.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/13.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/14.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/15.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/adentr.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/costadoplaza.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/iglesia.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/namora.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/plazanamora.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/SanNico.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/sapitos.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/ynoe.jpg?raw=true">
