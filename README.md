@@ -30,3 +30,6 @@
 <img src="https://github.com/elvislkn/img/blob/master/adelante.svg?raw=true">
 
 
+<img src="https://github.com/elvislkn/img/blob/master/plaz.jpg?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/poll.jpg?raw=true">
+
