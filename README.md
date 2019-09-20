@@ -35,3 +35,4 @@
 
 <img src="https://github.com/elvislkn/img/blob/master/windmill.obj?raw=true">
 <img src="https://github.com/elvislkn/img/blob/master/jardinero.obj?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/jardinero.mtl?raw=true">
