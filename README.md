@@ -33,3 +33,4 @@
 <img src="https://github.com/elvislkn/img/blob/master/plaz.jpg?raw=true">
 <img src="https://github.com/elvislkn/img/blob/master/poll.jpg?raw=true">
 
+<img src="https://github.com/elvislkn/img/blob/master/windmill.obj?raw=true">
