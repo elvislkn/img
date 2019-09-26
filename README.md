@@ -5,11 +5,6 @@
 <img src="https://github.com/elvislkn/img/blob/master/plaza-cajamarca.png?raw=true">
 <img src="https://github.com/elvislkn/img/blob/master/Plaza.jpg?raw=true">
 
-<img src="https://github.com/elvislkn/img/blob/master/sm1.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/sm2.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/sm3.jpg?raw=true">
-<img src="https://github.com/elvislkn/img/blob/master/sm4.jpg?raw=true">
-
 
 <img src="https://github.com/elvislkn/img/blob/master/catedral.jpg?raw=true">
 <img src="https://github.com/elvislkn/img/blob/master/dron.jpg?raw=true">
