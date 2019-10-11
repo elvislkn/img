@@ -39,5 +39,5 @@
 <img src="https://github.com/elvislkn/img/blob/master/santa1.jpg?raw=true">
 <img src="https://github.com/elvislkn/img/blob/master/santa2.jpg?raw=true">
 
-<img src="https://github.com/elvislkn/img/blob/master/play.png?raw=true">
+<img src="https://github.com/elvislkn/img/blob/master/ply.png?raw=true">
 
